@@ -4,7 +4,7 @@ from datetime import datetime
 import pandas as pd
 import numpy as np
 import streamlit as st
-! pip install xgboost
+!pip install xgboost
 from xgboost import XGBRegressor
 
 # loading xgboost model and standard scaler.
