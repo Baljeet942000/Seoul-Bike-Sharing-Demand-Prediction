@@ -13,7 +13,4 @@
 
 7. I have also created a streamlit web application which have been deployed on streamlit community cloud.
 
-##Link of the app 
-https://seoul-bike-sharing-demand-prediction-5z6nk8hedsjkkuwpst9uks.streamlit.app/
-
-
+##Link of the app https://seoul-bike-sharing-demand-prediction-e6eftzumzcrubsjskdzoac.streamlit.app/
