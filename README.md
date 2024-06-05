@@ -7,10 +7,12 @@
 
 4. The aim of this project is to address this challenge by combining historical bike usage patterns with weather data to forecast bike rental demand.
 
-5. I have conducted an initial exploratory data analysis and visualisation using matplotlib and seaborn.
+5. Performed detailed explorartory data analysis and data visualisation using numpy,pandas,matplotlib,seaborn.
 
-6. Have used python libraries such as pandas,numpy and sklearn to develop the prediction algorithm.
+6. Trained and tested 8 different machine learning models.
 
-7. I have also created a streamlit web application which have been deployed on streamlit community cloud.
+7. Have performed hyper parameter tuning to finallise the best fit model.
+
+8. created a streamlit web application which have been deployed on streamlit community cloud.
 
 ##Link of the app https://seoul-bike-sharing-demand-prediction-e6eftzumzcrubsjskdzoac.streamlit.app/
